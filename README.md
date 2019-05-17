@@ -1,4 +1,3 @@
-
 # HTML Intro - Lab
 
 ## Introduction
